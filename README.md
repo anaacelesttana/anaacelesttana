@@ -2,7 +2,7 @@
 - 👀 eu estou interessada no ano letivo
 - 🌱 estou aprendendo pensamento computacional
 - 💞️ eu estou procurando passar de ano
-- 📫 inta:anacarolinacelestina
+- 📫 insta:anacarolinacelestina
 
 <!---
 anaacelesttana/anaacelesttana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
